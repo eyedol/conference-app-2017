@@ -1,0 +1,28 @@
+[
+  {
+    "category": "Platinum sponsors",
+    "sponsors": [
+      {
+        "image_url": "https://droidkaigi.github.io/2017/images/sponsor/ca.png",
+        "site_url": "https://www.cyberagent.co.jp/"
+      },
+      {
+        "image_url": "https://droidkaigi.github.io/2017/images/sponsor/abemaTV.png",
+        "site_url": "https://abema.tv/"
+      },
+      {
+        "image_url": "https://droidkaigi.github.io/2017/images/sponsor/google.png",
+        "site_url": "https://developers.google.com/"
+      }
+    ]
+  },
+  {
+    "category": "Video Sponsor",
+    "sponsors": [
+      {
+        "image_url": "https://droidkaigi.github.io/2017/images/sponsor/realm.png",
+        "site_url": "https://realm.io/"
+      }
+    ]
+  }
+]

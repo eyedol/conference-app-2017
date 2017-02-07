@@ -54,6 +54,7 @@ public class SessionsViewModel extends BaseObservable implements ViewModel {
                 (sessions, mySessions) -> {
                     final Map<Integer, MySession> mySessionMap = new LinkedHashMap<>();
                     for (MySession mySession : mySessions) {
+                        // 4000000 to 6000000
                         mySessionMap.put(mySession.session.id, mySession);
                     }
 
